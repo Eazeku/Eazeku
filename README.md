@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eazeku
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Javascript and Golang
+- 🌱 I’m currently learning Javascript, Phyton and Golang
 - 💞️ I’m looking to collaborate on your project
 
 <!---
